@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I'm an aspiring **AI/ML Engineer** with a passion 
 
 ## 📫 How to Reach Me
 - LinkedIn: [Shivam Mehta](https://www.linkedin.com/in/shivammehta02)
-- Email: shivammehta02@example.com
+- Email: shivam02032003mehta@gmail.com
 
 Feel free to explore my repositories and reach out to me with any questions or collaboration ideas. Let’s build something amazing together! 🚀
